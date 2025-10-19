@@ -1,0 +1,329 @@
+{
+	"systeminfo": "WHISPER : COREML = 0 | OPENVINO = 0 | Metal : EMBED_LIBRARY = 1 | CPU : SSE3 = 1 | SSSE3 = 1 | ACCELERATE = 1 | REPACK = 1 | ",
+	"model": {
+		"type": "small",
+		"multilingual": true,
+		"vocab": 51865,
+		"audio": {
+			"ctx": 1500,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"text": {
+			"ctx": 448,
+			"state": 768,
+			"head": 12,
+			"layer": 12
+		},
+		"mels": 80,
+		"ftype": 1
+	},
+	"params": {
+		"model": "/Users/rebeccasakurai/whisper.cpp/models/ggml-small.bin",
+		"language": "en",
+		"translate": false
+	},
+	"result": {
+		"language": "en"
+	},
+	"transcription": [
+		{
+			"timestamps": {
+				"from": "00:00:00,000",
+				"to": "00:00:06,000"
+			},
+			"offsets": {
+				"from": 0,
+				"to": 6000
+			},
+			"text": " the paika, a rather adorable relative of the rabbit."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:06,000",
+				"to": "00:00:13,000"
+			},
+			"offsets": {
+				"from": 6000,
+				"to": 13000
+			},
+			"text": " It's August and summer is in full bloom."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:13,000",
+				"to": "00:00:28,000"
+			},
+			"offsets": {
+				"from": 13000,
+				"to": 28000
+			},
+			"text": " But the days of plenty won't be here for long."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:29,000",
+				"to": "00:00:33,000"
+			},
+			"offsets": {
+				"from": 29000,
+				"to": 33000
+			},
+			"text": " These slopes are only free from snow for ten weeks a year."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:33,000",
+				"to": "00:00:38,000"
+			},
+			"offsets": {
+				"from": 33000,
+				"to": 38000
+			},
+			"text": " When winter comes, this paika will be trapped in its burrow."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:38,000",
+				"to": "00:00:44,000"
+			},
+			"offsets": {
+				"from": 38000,
+				"to": 44000
+			},
+			"text": " To survive, it needs to stock up the larder."
+		},
+		{
+			"timestamps": {
+				"from": "00:00:44,000",
+				"to": "00:00:50,000"
+			},
+			"offsets": {
+				"from": 44000,
+				"to": 50000
+			},
+			"text": " But while home is up here, the food is all the way down there."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:00,000",
+				"to": "00:01:05,000"
+			},
+			"offsets": {
+				"from": 60000,
+				"to": 65000
+			},
+			"text": " Every summer, paika must collect enough plants to see them through the tough times to come."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:05,000",
+				"to": "00:01:10,000"
+			},
+			"offsets": {
+				"from": 65000,
+				"to": 70000
+			},
+			"text": " Multiple trips are inevitable."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:10,000",
+				"to": "00:01:21,000"
+			},
+			"offsets": {
+				"from": 70000,
+				"to": 81000
+			},
+			"text": " And anyone living high up on the slopes, like this female, has their work cut out for them."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:21,000",
+				"to": "00:01:28,000"
+			},
+			"offsets": {
+				"from": 81000,
+				"to": 88000
+			},
+			"text": " She may make over 10,000 trips in just one season."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:30,000",
+				"to": "00:01:36,000"
+			},
+			"offsets": {
+				"from": 90000,
+				"to": 96000
+			},
+			"text": " And the grand result of this frenetic activity is a haystack."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:36,000",
+				"to": "00:01:43,000"
+			},
+			"offsets": {
+				"from": 96000,
+				"to": 103000
+			},
+			"text": " These stockpiles of food can weigh up to 28 kilograms."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:43,000",
+				"to": "00:01:48,000"
+			},
+			"offsets": {
+				"from": 103000,
+				"to": 108000
+			},
+			"text": " That's more than 180 times a paika's own body weight."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:48,000",
+				"to": "00:01:51,000"
+			},
+			"offsets": {
+				"from": 108000,
+				"to": 111000
+			},
+			"text": " It's exhausting work."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:51,000",
+				"to": "00:01:55,000"
+			},
+			"offsets": {
+				"from": 111000,
+				"to": 115000
+			},
+			"text": " Perhaps there's another way."
+		},
+		{
+			"timestamps": {
+				"from": "00:01:55,000",
+				"to": "00:01:58,000"
+			},
+			"offsets": {
+				"from": 115000,
+				"to": 118000
+			},
+			"text": " An easier way."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:00,000",
+				"to": "00:02:05,000"
+			},
+			"offsets": {
+				"from": 120000,
+				"to": 125000
+			},
+			"text": " Just down the slope, another paika is getting started on his haystack."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:05,000",
+				"to": "00:02:09,000"
+			},
+			"offsets": {
+				"from": 125000,
+				"to": 129000
+			},
+			"text": " But he's being watched."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:09,000",
+				"to": "00:02:22,000"
+			},
+			"offsets": {
+				"from": 129000,
+				"to": 142000
+			},
+			"text": " It's daylight robbery."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:22,000",
+				"to": "00:02:25,000"
+			},
+			"offsets": {
+				"from": 142000,
+				"to": 145000
+			},
+			"text": " But this is not just reckless behavior."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:26,000",
+				"to": "00:02:33,000"
+			},
+			"offsets": {
+				"from": 146000,
+				"to": 153000
+			},
+			"text": " By taking food that's so much closer to home, our paika is saving precious time and energy."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:33,000",
+				"to": "00:02:38,000"
+			},
+			"offsets": {
+				"from": 153000,
+				"to": 158000
+			},
+			"text": " It's so tempting, she may well become a repeat offender."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:38,000",
+				"to": "00:02:42,000"
+			},
+			"offsets": {
+				"from": 158000,
+				"to": 162000
+			},
+			"text": " But it's a risky business."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:42,000",
+				"to": "00:02:46,000"
+			},
+			"offsets": {
+				"from": 162000,
+				"to": 166000
+			},
+			"text": " Court red-handed."
+		},
+		{
+			"timestamps": {
+				"from": "00:02:57,000",
+				"to": "00:03:00,000"
+			},
+			"offsets": {
+				"from": 177000,
+				"to": 180000
+			},
+			"text": " Every bandit needs a good getaway roose."
+		},
+		{
+			"timestamps": {
+				"from": "00:03:00,000",
+				"to": "00:03:05,000"
+			},
+			"offsets": {
+				"from": 180000,
+				"to": 185000
+			},
+			"text": " And it's worked."
+		}
+	]
+}
