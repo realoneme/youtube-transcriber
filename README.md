@@ -96,6 +96,16 @@ npm start
 9. Play in Video or Audio mode; click a sentence to jump to the timestamp.
 10. History is saved locally; revisit or delete from the list.
 
+### 演示 / Demo
+
+<video src="assets/demo/robosub1.mov" controls width="720"></video>
+
+<video src="assets/demo/robosub2.mov" controls width="720"></video>
+
+<video src="assets/demo/robosub3.mov" controls width="720"></video>
+
+<video src="assets/demo/robosub4.mov" controls width="720"></video>
+
 ---
 
 ## 文件与路由说明 / Files & Routing
