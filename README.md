@@ -98,13 +98,20 @@ npm start
 
 ### 演示 / Demo
 
-<video src="assets/demo/robosub1.mov" controls width="720"></video>
+> GitHub README 不保证内嵌 `<video>` 显示，建议使用文件链接或 GIF。点击下方链接可在 GitHub 文件页面中播放。
+> GitHub README does not reliably render inline `<video>`. Use file links or GIFs. Click links below to play on the file page.
 
-<video src="assets/demo/robosub2.mov" controls width="720"></video>
+- [Demo 1 — robosub1.mov](assets/demo/robosub1.mov)
+- [Demo 2 — robosub2.mov](assets/demo/robosub2.mov)
+- [Demo 3 — robosub3.mov](assets/demo/robosub3.mov)
+- [Demo 4 — robosub4.mov](assets/demo/robosub4.mov)
 
-<video src="assets/demo/robosub3.mov" controls width="720"></video>
+如需在 README 中直接播放，建议将 `.mov` 转为更通用的 `.mp4` 并改用 GIF 缩略图链接：
+To inline “play-like” content in README, convert `.mov` to widely compatible `.mp4` and use a GIF thumbnail link:
 
-<video src="assets/demo/robosub4.mov" controls width="720"></video>
+```md
+[![Demo 1](assets/demo/demo1.gif)](assets/demo/robosub1.mp4)
+```
 
 ---
 
